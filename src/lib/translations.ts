@@ -9,15 +9,15 @@ export const translations = {
     },
     // Hero Section
     hero: {
-      title: "Moustiquaire Plissée Premium",
-      subtitle: "Découvrez notre gamme exclusive de moustiquaires plissées de haute qualité, conçues pour offrir une protection optimale contre les insectes tout en préservant l'esthétique de votre habitat. Fabricées avec des matériaux premium selon les standards européens les plus exigeants, nos solutions combinent innovation technologique et design élégant pour répondre aux besoins des particuliers et des professionnels à travers toute l'Europe. Livraison rapide et installation professionnelle garantie.",
+      title: "Moustiquaire Plissée France | Plisse Sineklik Fransa",
+      subtitle: "Découvrez notre gamme exclusive de moustiquaires plissées de haute qualité pour la France. Protection optimale contre les insectes avec livraison rapide dans toute la France (Paris, Lyon, Marseille, Bordeaux, Toulouse). Fabrication premium selon les standards européens les plus exigeants. Solutions innovantes pour particuliers et professionnels.",
       cta: "Demander un Devis Gratuit",
       ctaSecondary: "Découvrir Nos Produits",
     },
     // Products Section
     products: {
-      title: "Nos Produits",
-      subtitle: "Solutions Complètes de Protection Contre les Insectes pour Toutes Vos Besoins",
+      title: "Moustiquaire Plissée France | Plisse Perde Paris",
+      subtitle: "Solutions Complètes de Protection Contre les Insectes en France - Paris, Lyon, Marseille",
       moustiquairePlissee: {
         name: "Moustiquaire Plissée",
         description: "Solution innovante et élégante spécialement conçue pour vos fenêtres et portes-fenêtres. Notre technologie plissée exclusive offre une protection maximale contre tous les types d'insectes volants tout en maintenant une visibilité optimale et une circulation d'air naturelle. Le design moderne et discret s'intègre parfaitement à tous les styles architecturaux, des habitations traditionnelles aux bâtiments contemporains. Fabricée avec des matériaux de première qualité résistant aux conditions climatiques extrêmes, notre moustiquaire plissée garantit durabilité et performance exceptionnelles.",
@@ -98,8 +98,8 @@ export const translations = {
     },
     // Target Markets Section
     markets: {
-      title: "Nos Zones de Service",
-      subtitle: "Livraison et Installation Dans Toute l'Europe",
+      title: "Moustiquaire Plissée France | Plisse Sineklik Fransa",
+      subtitle: "Livraison et Installation Dans Toute la France - Paris, Lyon, Marseille, Bordeaux, Toulouse",
       description: "Nous sommes fiers de servir des clients dans toute l'Europe avec des délais de livraison rapides et fiables variant de 4 à 10 jours selon votre localisation. Tous nos produits sont certifiés conformes aux normes européennes en vigueur et bénéficient d'une garantie complète pour votre tranquillité d'esprit. Notre réseau logistique optimisé nous permet de livrer en France, Allemagne, Belgique, Pays-Bas, Autriche, Suisse et dans de nombreux autres pays européens avec la même qualité de service et d'engagement client. Chaque commande est traitée avec le plus grand soin pour garantir une expérience client satisfaisante.",
       countries: {
         france: "France",
@@ -215,15 +215,15 @@ export const translations = {
     },
     // Hero Section
     hero: {
-      title: "Premium Plise Sineklik",
-      subtitle: "Özel üretim yüksek kaliteli plise sineklik serimizi keşfedin. Böceklerden maksimum koruma sağlarken yaşam alanınızın estetiğini korumak için tasarlanmış bu premium çözümlerimiz, Avrupa standartlarında üretilmiş en kaliteli malzemelerle hazırlanmıştır. Teknolojik yenilik ve zarif tasarımı birleştiren ürünlerimiz, tüm Avrupa'daki bireysel ve kurumsal müşterilerimizin ihtiyaçlarını karşılamak için geliştirilmiştir. Hızlı teslimat ve garantili profesyonel kurulum hizmeti sunuyoruz.",
+      title: "Fransa Plise Sineklik | Moustiquaire Plissée France",
+      subtitle: "Fransa için özel üretim yüksek kaliteli plise sineklik serimizi keşfedin. Paris, Lyon, Marsilya, Bordeaux, Toulouse dahil tüm Fransa'da hızlı teslimat ile maksimum böcek koruması. Avrupa standartlarında en kaliteli malzemelerle üretilen premium çözümlerimiz, bireysel ve kurumsal müşterilerimizin ihtiyaçlarını karşılamak için geliştirilmiştir.",
       cta: "Ücretsiz Teklif Alın",
       ctaSecondary: "Ürünlerimizi Keşfedin",
     },
     // Products Section
     products: {
-      title: "Ürünlerimiz",
-      subtitle: "Tüm İhtiyaçlarınız İçin Kapsamlı Böcek Koruması Çözümleri",
+      title: "Fransa Plise Perde | Moustiquaire Plissée Paris",
+      subtitle: "Tüm Fransa İçin Kapsamlı Böcek Koruması Çözümleri - Paris, Lyon, Marsilya",
       moustiquairePlissee: {
         name: "Plise Sineklik",
         description: "Pencereleriniz ve fransız camlarınız için özel olarak tasarlanmış yenilikçi ve zarif çözüm. Özel plise teknolojimiz tüm uçan böcek türlerine karşı maksimum koruma sağlarken, optimum görünürlük ve doğal hava sirkülasyonunu korur. Modern ve dikkat çekici olmayan tasarımı, geleneksel konutlardan çağdaş binalara kadar tüm mimari stillere mükemmel uyum sağlar. Sıcaklık ve nem gibi aşırı iklim koşullarına dayanıklı birinci sınıf malzemelerle üretilen plise sinekliğimiz, olağanüstü dayanıklılık ve performans garantiler.",
@@ -304,8 +304,8 @@ export const translations = {
     },
     // Target Markets Section
     markets: {
-      title: "Hizmet Bölgelerimiz",
-      subtitle: "Tüm Avrupa'da Teslimat ve Kurulum",
+      title: "Fransa Plise Sineklik | Moustiquaire Plissée Paris",
+      subtitle: "Tüm Fransa'da Teslimat ve Kurulum - Paris, Lyon, Marsilya, Bordeaux, Toulouse",
       description: "Konumunuza bağlı olarak 4 ila 10 gün arasında değişen hızlı ve güvenilir teslimat süreleriyle tüm Avrupa'daki müşterilere hizmet vermekten gurur duyuyoruz. Tüm ürünlerimiz yürürlükteki Avrupa standartlarına uygun olarak sertifikalandırılmıştır ve huzurunuz için tam garanti kapsamındadır. Optimize edilmiş lojistik ağımız sayesinde Fransa, Almanya, Belçika, Hollanda, Avusturya, İsviçre ve birçok diğer Avrupa ülkesine aynı hizmet kalitesi ve müşteri taahhüdü ile teslimat yapıyoruz. Her sipariş tatmin edici bir müşteri deneyimi garanti etmek için en büyük özenle işlenir.",
       countries: {
         france: "Fransa",
